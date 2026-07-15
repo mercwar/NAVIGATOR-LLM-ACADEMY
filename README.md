@@ -154,11 +154,4 @@ This documentation and all associated repositories are provided for **educationa
 
 ---
 
-## 📖 **Contributor Responsibilities**
 
-- Ensure all commits include **AVIS metadata** and **AIFVS validation markers**.  
-- Follow the **10‑page per chapter** structure in Navigator‑LLM‑Academy.  
-- Document exercises, safeguards, and ethical considerations clearly.  
-- Submit pull requests with detailed commit messages for transparency.  
-
----
