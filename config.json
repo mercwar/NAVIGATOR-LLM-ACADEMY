@@ -4,16 +4,16 @@
     "repo": "NAVIGATOR-LLM-ACADEMY",
     "branch": "main"
   },
-  "dirs": {
-  "Basic": "Tutorial/Basics",
-  "Intermediate": "Tutorial/Intermediate",
-  "Expert":"Tutorial/Expert",
-  "Master": "Tutorial/Master",
-  "Advanced": "Tutorial/Advanced",
-  "Ethics":"Tutorial/Ethics",
-  "Bridge":"Tutorial/Bridge",
-  "Foundation":"Tutorial/Foundation",
-  "Pinnacle":"Tutorial/Pinnacle",
-  "Apex":"Tutorial/Apex"
+    "dirs": {
+      "Basic": "Tutorial/Basics",
+      "Intermediate": "Tutorial/Intermediate",
+      "Expert":"Tutorial/Expert",
+      "Master": "Tutorial/Master",
+      "Advanced": "Tutorial/Advanced",
+      "Ethics":"Tutorial/Ethics",
+      "Bridge":"Tutorial/Bridge",
+      "Foundation":"Tutorial/Foundation",
+      "Pinnacle":"Tutorial/Pinnacle",
+      "Apex":"Tutorial/Apex"
   }
 }
