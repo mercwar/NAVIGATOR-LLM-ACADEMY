@@ -1,0 +1,13 @@
+{
+  "conn": {
+    "user": "mercwar",
+    "repo": "NEXUS",
+    "branch": "main"
+  },
+  "dirs": {
+    "TABS": "/TABS/",
+    "ROBOTS": "/TABS/RES/ROBOTS",
+    "AVIS": "/TABS/RES/AVIS",
+	"TEST": "/Test"
+  }
+}
