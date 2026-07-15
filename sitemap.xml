@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Test/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Test/style.css</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/MD/example.md</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/new-wav.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru-bg.png</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/.github/workflows/tron-site.yml</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/home.md</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/career.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/vision.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/tasks.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/platforms.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/interfaces.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/conversation.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/copy-paste.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/networking.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/basics-llms.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Basics/accounts.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/html_obj.html</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/HTML/Example.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/HTML/Mercwar.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/HTML/cvbgod.js</loc>
@@ -19,39 +67,51 @@
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/HTML/cvbgod.css</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/HTML/Mercwar.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/LICENSE</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.js</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/html_obj.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/MD/example.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Test/style.css</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Test/index.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru_gx.css</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/config.json</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/LICENSE</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.css</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru_gx.css</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/scaling.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/.github/workflows/tron-site.yml</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/advprompt.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/collab.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/copypaste.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/troubleshoot.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/prompt.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/workflow.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/confidence.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/procareer.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Intermediate/security.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.js</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru-bg.png</loc>
   </url>
 </urlset>
