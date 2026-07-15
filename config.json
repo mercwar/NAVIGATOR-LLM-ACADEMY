@@ -5,11 +5,15 @@
     "branch": "main"
   },
   "dirs": {
-  "Basic": "Basics",
-  "Intermediate": "Intermediate",
-  "Expert":"Expert",
-  "Master": "Master",
-  "Advanced": "Advanced",
-  "Ethics":"Ethics"
+  "Basic": "Tutorial/Basics",
+  "Intermediate": "Tutorial/Intermediate",
+  "Expert":"Tutorial/Expert",
+  "Master": "Tutorial/Master",
+  "Advanced": "Tutorial/Advanced",
+  "Ethics":"Tutorial/Ethics",
+  "Bridge":"",
+  "Foundation":"Foundation",
+  "Pinnacle":"Pinnacle",
+  "Apex":"Apex"
   }
 }
