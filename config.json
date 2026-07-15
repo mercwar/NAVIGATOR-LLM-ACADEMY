@@ -7,6 +7,9 @@
   "dirs": {
 	"Basic": "Basics",
   "Intermediate": "Intermediate",
-  "Master": "Master"
+  "Expert":"Expert",
+  "Master": "Master",
+  "Advanced": "Advanced",
+  "Ethics":"Ethics"
   }
 }
