@@ -11,9 +11,9 @@
   "Master": "Tutorial/Master",
   "Advanced": "Tutorial/Advanced",
   "Ethics":"Tutorial/Ethics",
-  "Bridge":"",
-  "Foundation":"Foundation",
-  "Pinnacle":"Pinnacle",
-  "Apex":"Apex"
+  "Bridge":"Tutorial/Bridge",
+  "Foundation":"Tutorial/Foundation",
+  "Pinnacle":"Tutorial/Pinnacle",
+  "Apex":"Tutorial/Apex"
   }
 }
