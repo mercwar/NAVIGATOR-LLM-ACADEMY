@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "dirs": {
-	"Basic": "Basics",
+  "Basic": "Basics",
   "Intermediate": "Intermediate",
   "Expert":"Expert",
   "Master": "Master",
