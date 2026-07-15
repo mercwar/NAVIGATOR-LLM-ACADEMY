@@ -1,75 +1,143 @@
 <!-- AIFVS-ARTIFACT -->
-<!-- AVIS: Novice Basics Chapter Page with Transparent TOC -->
+<!-- AVIS: Novice Basics Chapter Page with Transparent TOC and Common Styles -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Basics – Learning More About LLMs</title>
-
-</head>
-<body>
   <style>
-
-
-    /* Transparent TOC with slight backdrop */
-    .toc {
-      background: rgba(0, 51, 102, 0.2); /* subtle deep blue tint */
+    /* Reset + base body */
+    body {
+      font-family: "Georgia", serif;
+      margin: 0;
+      background: #fdfdfd;
       color: #222;
+      line-height: 1.6;
       padding: 20px;
-      max-height: none; /* no scrollbars */
     }
 
+    /* Headings */
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: bold;
+      margin: 1.2em 0 0.6em;
+      line-height: 1.3;
+      color: #003366;
+    }
+    h1 { font-size: 2em; border-bottom: 2px solid #006699; padding-bottom: 0.3em; }
+    h2 { font-size: 1.6em; color: #006699; }
+    h3 { font-size: 1.3em; color: #444; }
+
+    /* Paragraphs */
+    p { margin: 0.8em 0; }
+
+    /* Links */
+    a {
+      color: #003366;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      color: #ff6600;
+      text-decoration: underline;
+    }
+
+    /* Lists */
+    ul, ol { margin: 1em 0 1em 2em; }
+    li { margin: 0.4em 0; }
+
+    /* Tables */
+    table {
+      border-collapse: collapse;
+      margin: 1em 0;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px 12px;
+      text-align: left;
+    }
+    th {
+      background: #003366;
+      color: #fff;
+    }
+
+    /* Images */
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1em auto;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+    }
+
+    /* Code blocks */
+    pre, code {
+      font-family: "Courier New", monospace;
+      background: #f4f4f4;
+      padding: 6px 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    pre { margin: 1em 0; }
+
+    /* Blockquotes */
+    blockquote {
+      border-left: 4px solid #006699;
+      padding-left: 12px;
+      margin: 1em 0;
+      color: #555;
+      font-style: italic;
+    }
+
+    /* Forms */
+    input, textarea, select, button {
+      font-family: inherit;
+      font-size: 1em;
+      padding: 6px 10px;
+      margin: 0.5em 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background: #003366;
+      color: #fff;
+      cursor: pointer;
+    }
+    button:hover { background: #006699; }
+
+    /* Transparent TOC */
+    .toc {
+      background: rgba(0, 51, 102, 0.2);
+      color: #222;
+      padding: 20px;
+      max-height: none;
+    }
     .toc h2 {
       margin-top: 0;
       font-size: 18px;
       color: #003366;
     }
-
     .toc ul {
       list-style-type: none;
       padding-left: 0;
       margin: 0;
     }
+    .toc li { margin: 8px 0; }
+    .toc a { color: #003366; }
+    .toc a:hover { color: #ffcc00; }
 
-    .toc li {
-      margin: 8px 0;
-    }
-
-    /* Anchor styling */
-    .toc a {
-      color: #003366;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .toc a:hover {
-      color: #ffcc00;
-      text-decoration: underline;
-    }
-
-    /* Chapter content */
+    /* Chapter content wrapper */
     .chapter {
       padding: 30px;
       max-width: 800px;
       margin: auto;
     }
-
-    .chapter h1 {
-      color: #003366;
-      border-bottom: 2px solid #006699;
-      padding-bottom: 10px;
-    }
-
-    .chapter h2 {
-      color: #006699;
-      margin-top: 30px;
-    }
-
-    .chapter p, .chapter ul {
-      font-size: 16px;
-    }
   </style>
+</head>
+<body>
+
   <!-- Transparent TOC -->
   <div class="toc">
     <h2>Table of Contents</h2>
@@ -90,36 +158,22 @@
 
     <section id="intro">
       <h2>Introduction</h2>
-      <p>
-        Large Language Models (LLMs) are advanced AI systems trained on massive amounts of text.
-        They can generate, summarize, and explain information in natural language, making them
-        useful for everyday computer users.
-      </p>
+      <p>Large Language Models (LLMs) are advanced AI systems trained on massive amounts of text...</p>
     </section>
 
     <section id="history">
       <h2>Brief History</h2>
-      <p>
-        Early AI systems focused on simple rules. Over time, machine learning and deep learning
-        allowed computers to recognize patterns in data. The transformer architecture, introduced
-        in 2017, made it possible to train LLMs like GPT and BERT.
-      </p>
+      <p>Early AI systems focused on simple rules. Over time, machine learning and deep learning...</p>
     </section>
 
     <section id="definition">
       <h2>What Are LLMs?</h2>
-      <p>
-        An LLM is a type of neural network designed to process and generate human-like text.
-        It works by predicting the next word in a sequence, using context from previous words.
-      </p>
+      <p>An LLM is a type of neural network designed to process and generate human-like text...</p>
     </section>
 
     <section id="importance">
       <h2>Why They Matter</h2>
-      <p>
-        LLMs make computers easier to use. Instead of memorizing commands, users can type or
-        speak naturally. This lowers the barrier for average computer users to accomplish tasks.
-      </p>
+      <p>LLMs make computers easier to use. Instead of memorizing commands, users can type naturally...</p>
     </section>
 
     <section id="examples">
@@ -134,18 +188,12 @@
 
     <section id="getting-started">
       <h2>Getting Started</h2>
-      <p>
-        Beginners can try free platforms like ChatGPT, Copilot, or Hugging Face demos. Start
-        with simple questions, copy and paste text, and experiment with prompts.
-      </p>
+      <p>Beginners can try free platforms like ChatGPT, Copilot, or Hugging Face demos...</p>
     </section>
 
     <section id="summary">
       <h2>Summary</h2>
-      <p>
-        LLMs are powerful tools that make computing more accessible. By understanding the basics,
-        novice users can begin exploring how these systems can help in everyday life.
-      </p>
+      <p>LLMs are powerful tools that make computing more accessible...</p>
     </section>
 
   </div>
