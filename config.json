@@ -5,6 +5,6 @@
     "branch": "main"
   },
   "dirs": {
-	"TEST": "/Test"
+	"TEST": "Test"
   }
 }
