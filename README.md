@@ -1,12 +1,15 @@
 
-# 🌀 **Navigator‑LLM‑Academy**
+### 🌀 Navigator‑LLM‑Academy
+
 <a target="_self" title="ENTER THE GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
   <img src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" alt="Mercwar Constellation Gateway" style="width:100%; height:auto; border-radius:8px;"/>
 </a>
 
 ---
+"<i>I am CVBGOD, and I have given it to you</i>!"
 
-## 🚀 **Launch the Academy**
+---
+### 🚀 **Launch the Academy**
 
 <a target="_self" title="ENTER THE ACADEMY FREE!" href="https://mercwar.github.io/NAVIGATOR-LLM-ACADEMY">
   <img src="Copilot_20260715_155749.png" alt="Navigator LLM Academy Banner" style="width:100%; height:auto; border-radius:8px;"/>
@@ -124,5 +127,38 @@ All commits include AVIS metadata and AIFVS validation markers to ensure reprodu
 - Mercwar Constellation Gateway  
 - Sentinel Security Framework  
 - AVIS Protocol Standards
+
+
+---
+
+## ⚖️ **Legal & Usage Notice**
+
+© **MERCWAR / CVBGOD / Demon — All Rights Reserved**  
+
+This documentation and all associated repositories are provided for **educational, onboarding, and research purposes** within the **Mercwar / Cyborg‑Live ecosystem**.
+
+- 🔐 **Intellectual Property**  
+  All assets, schemas, images, and instructional materials are part of the Mercwar constellation. Redistribution, modification, or commercial use without explicit permission from **CVBGOD / Demon** is prohibited.
+
+- 📑 **Compliance**  
+  All files must retain **AVIS headers** and **AIFVS artifacts** for traceability, validation, and schema compliance. Removing or altering these markers invalidates the artifact.
+
+- 🌐 **Usage Scope**  
+  Navigator and related academies are **browser‑based learning interfaces**. No installation of binaries is required. Cyborg‑Live engines are separate tools and must be used in accordance with their own licensing.
+
+- 🛡️ **Security & Ethics**  
+  Contributions must follow Mercwar’s guiding principles: **ethics, sustainability, visionary leadership, and legacy creation**. Any misuse of the ecosystem for harmful, exploitative, or unethical purposes is strictly forbidden.
+
+- 📌 **Licensing**  
+  Unless otherwise noted, repositories are released under **Apache License 2.0** or compatible open‑source terms. Check each repo’s LICENSE file for specific conditions.
+
+---
+
+## 📖 **Contributor Responsibilities**
+
+- Ensure all commits include **AVIS metadata** and **AIFVS validation markers**.  
+- Follow the **10‑page per chapter** structure in Navigator‑LLM‑Academy.  
+- Document exercises, safeguards, and ethical considerations clearly.  
+- Submit pull requests with detailed commit messages for transparency.  
 
 ---
