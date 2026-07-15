@@ -1,148 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/README.md</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Copilot_20260715_155749.png</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/new-wav.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/.github/workflows/tron-site.yml</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru-bg.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/home.md</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/README.md</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/LICENSE</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.js</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/html_obj.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/config.json</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.css</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru_gx.css</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-03-global_standards.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-09-sustainability_leadership.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-07-global_collaboration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-02-visionary_leadership.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-10-expert_vision.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-08-PG-08-ethical_vision.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-06-societal_stewardship.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-04-innovation_pioneering.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-01-expert_foundations.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-04-enterprise.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-09-PG-09-case_studies.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-10-future_integration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-06-resilience.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-08-monitoring.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-05-security.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-01-integration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-02-pipelines.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-07-interoperability.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-03-multimodal.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-08-scaling.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-07-impact.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-05-industry.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-04-leadership.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-02-industry.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Copilot_20260715_155749.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-01-mastery.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-03-sustain.html</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-09-challenges.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-10-future_mastery.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-03-sustain.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-06-collaboration.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-01-basics-llms.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-05-industry.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-10-accounts.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-10-future_mastery.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-03-interfaces.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-08-scaling.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-08-tasks.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-04-leadership.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-09-vision.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-07-impact.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-05-platforms.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Master/PG-02-industry.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-06-conversation.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-09-global_responsibility.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-04-networking.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-08-innovation_scale.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-02-copy-paste.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-06-advanced_collaboration.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-07-career.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-05-continuous_evaluation.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-02-strategic_vision.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-04-ethical_leadership.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-03-system_design.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-01-dvanced_foundations.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-10-mastery_leadership.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-07-governance.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-10-PG-10-apex_vision.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-03-ethical_stewardship.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-07-planetary_stewardship.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-01-visionary_foundations.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-02-global_vision.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-08-humanity_partnership.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-05-legacy_creation.html</loc>
@@ -151,130 +121,25 @@
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-09-visionary_innovation.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-02-global_vision.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-01-visionary_foundations.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-03-ethical_stewardship.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-08-humanity_partnership.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-10-PG-10-apex_vision.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-04-transformative_leadership.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-06-civilizational_guidance.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Apex/PG-04-transformative_leadership.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-01-bridge.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-05-integration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-04-resilience.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-08-innovation.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-10-mastery_bridge.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-09-adv_ethics.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-02-PG-02-advprompt.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-03-collaboration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-07-scaling.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-06-evaluation.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-06-governance.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-07-security.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-03-transparency.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-01-ethics.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-02-bias.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-10-future_ethics.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-08-inclusivity.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-09-sustainability.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-04-privacy.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-05-accountability.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/rename_by_page.bat</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-03-integration.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-07-multimodel.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-01-expert.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-04-optimize.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-02-verify.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-06-ethics.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-06-scaling.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-05-PG-05-case.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-09-workflow.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-10-future.html</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-01-prompt.html</loc>
   </url>
   <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-09-copypaste.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-10-confidence.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-05-PG-05-advprompt.html</loc>
+  </url>
+  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-08-scaling.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-02-workflow.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-07-security.html</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-03-procareer.html</loc>
@@ -283,60 +148,195 @@
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-04-troubleshoot.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-10-confidence.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-09-copypaste.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-05-PG-05-advprompt.html</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-06-collab.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-03-system_design.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-02-workflow.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-06-advanced_collaboration.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Intermediate/PG-07-security.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-08-innovation_scale.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-10-expert_vision.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-10-mastery_leadership.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-06-societal_stewardship.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-04-ethical_leadership.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-01-expert_foundations.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-07-governance.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-03-global_standards.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-02-strategic_vision.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-09-sustainability_leadership.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-05-continuous_evaluation.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-08-PG-08-ethical_vision.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-01-dvanced_foundations.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-04-innovation_pioneering.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Foundation/PG-09-global_responsibility.html</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-02-visionary_leadership.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/config.json</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Pinnacle/PG-07-global_collaboration.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/LICENSE</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-08-innovation.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.css</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-07-scaling.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/index.js</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-04-resilience.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/rru-bg.png</loc>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-10-mastery_bridge.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-06-evaluation.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-05-integration.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-02-PG-02-advprompt.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-09-adv_ethics.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-03-collaboration.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Bridge/PG-01-bridge.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-09-PG-09-case_studies.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-07-interoperability.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-02-pipelines.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-10-future_integration.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-08-monitoring.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-01-integration.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-03-multimodal.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-04-enterprise.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-06-resilience.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Advanced/PG-05-security.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-06-scaling.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-06-ethics.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-01-expert.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-10-future.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-07-multimodel.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-03-integration.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-02-verify.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-05-PG-05-case.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-04-optimize.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Expert/PG-09-workflow.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-05-platforms.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-07-career.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-01-basics-llms.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-08-tasks.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-02-copy-paste.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-03-interfaces.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-06-conversation.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-10-accounts.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-04-networking.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Basics/PG-09-vision.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/rename_by_page.bat</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-02-bias.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-01-ethics.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-03-transparency.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-10-future_ethics.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-05-accountability.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-08-inclusivity.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-04-privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-06-governance.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-09-sustainability.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/Tutorial/Ethics/PG-07-security.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/NAVIGATOR-LLM-ACADEMY/blob/main/.github/workflows/tron-site.yml</loc>
   </url>
 </urlset>
