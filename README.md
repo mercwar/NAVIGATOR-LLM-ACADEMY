@@ -43,11 +43,26 @@ The Academy is both a **curriculum** and a **navigator engine**, combining:
 
 ## 📚 Curriculum Structure
 
+
 Each chapter contains **10 pages**, progressively deepening knowledge:
 
-- **Chapter 9 (Expert)** → Ethical Vision, Sustainability Leadership, Expert Vision  
-- **Chapter 10 (Visionary)** → Global Vision, Ethical Stewardship, Transformative Leadership, Apex Vision  
-- **Chapter 11 (Transcendent)** → Universal Vision, Civilizational Guidance, Planetary Stewardship  
+- Advanced
+- Apex
+- Basics
+- Bridge
+- Ethics
+- Expert
+- Foundation
+- Intermediate
+- Master
+- Pinnacle
+
+
+
+---
+
+Would you like me to **embed a roadmap table** showing all chapters (Beginner → Transcendent) with their page topics, so the README doubles as a curriculum index?
+
 
 Every page includes:
 - Concept overview  
