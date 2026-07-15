@@ -6,6 +6,7 @@
   },
   "dirs": {
 	"Basic": "Basics",
-  "Intermediate": "Intermediate"
+  "Intermediate": "Intermediate",
+  "Master": "Master"
   }
 }
