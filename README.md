@@ -5,6 +5,7 @@
     style="width:100%; height:auto;"
 />
 </a>
+
 ---
 
 # Navigator‑LLM‑Academy
